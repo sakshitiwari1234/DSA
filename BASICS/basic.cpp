@@ -8,7 +8,7 @@ int main(){
     // cin >> n;
 
     // cout << "the number entered is:";
-    // cout << n;
+    // cout << n;               basic questions become hardst one's likh k lo mujhseee
 
 //    vector <int> arr;
 
